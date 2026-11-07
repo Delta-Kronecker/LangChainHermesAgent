@@ -1,0 +1,18 @@
+# System & Environment files
+.env
+*.env
+*.lock
+.DS_Store
+Thumbs.db
+
+# Logs & Caches
+*.log
+__pycache__/
+*.pyc
+.cache/
+.tmp/
+
+# IDE & Editor folders
+.idea/
+.vscode/
+*.swp
