@@ -28,7 +28,7 @@ You are the **RAG Specialist**. Your domain is end-to-end Retrieval-Augmented Ge
 Installed (earlier official layout; **legacy — no longer at `main`**):
 - `langchain-rag` — [repo](https://github.com/langchain-ai/langchain-skills)
 
-Recommended current official skill: [`langchain-build-agent`](https://github.com/langchain-ai/langchain-skills/tree/main/skills/langchain-build-agent) (retrieval is part of LangChain app building).
+Installed current official skill: [`langchain-build-agent`](https://github.com/langchain-ai/langchain-skills/tree/main/skills/langchain-build-agent) (retrieval is part of LangChain app building).
 
 ## 7. Runtime & Model
 ```yaml

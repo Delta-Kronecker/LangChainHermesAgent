@@ -97,16 +97,22 @@ Skills are installed **only** from the official LangChain team repository. Verif
 | `langchain-specialist` | `langchain-dependencies` | [repo](https://github.com/langchain-ai/langchain-skills) *(legacy layout)* |
 | | `langchain-fundamentals` | [repo](https://github.com/langchain-ai/langchain-skills) *(legacy layout)* |
 | | `langchain-middleware` | [repo](https://github.com/langchain-ai/langchain-skills) *(legacy layout)* |
+| | `langchain-build-agent` | [skills/langchain-build-agent](https://github.com/langchain-ai/langchain-skills/tree/main/skills/langchain-build-agent) *(current)* |
 | `langgraph-specialist` | `langgraph-cli` | [repo](https://github.com/langchain-ai/langchain-skills) *(legacy layout)* |
 | | `langgraph-fundamentals` | [repo](https://github.com/langchain-ai/langchain-skills) *(legacy layout)* |
 | | `langgraph-human-in-the-loop` | [repo](https://github.com/langchain-ai/langchain-skills) *(legacy layout)* |
+| | `langchain-build-agent` | [skills/langchain-build-agent](https://github.com/langchain-ai/langchain-skills/tree/main/skills/langchain-build-agent) *(current)* |
 | `agent-systems-specialist` | `deep-agents-core` | [repo](https://github.com/langchain-ai/langchain-skills) *(legacy layout)* |
 | | `deep-agents-memory` | [repo](https://github.com/langchain-ai/langchain-skills) *(legacy layout)* |
 | | `deep-agents-orchestration` | [repo](https://github.com/langchain-ai/langchain-skills) *(legacy layout)* |
+| | `langchain-build-agent` | [skills/langchain-build-agent](https://github.com/langchain-ai/langchain-skills/tree/main/skills/langchain-build-agent) *(current)* |
 | `rag-specialist` | `langchain-rag` | [repo](https://github.com/langchain-ai/langchain-skills) *(legacy layout)* |
+| | `langchain-build-agent` | [skills/langchain-build-agent](https://github.com/langchain-ai/langchain-skills/tree/main/skills/langchain-build-agent) *(current)* |
 | `evaluation-specialist` | `eval-engineering` | [repo](https://github.com/langchain-ai/langchain-skills) *(legacy layout)* |
 | | `langsmith-experiment-diagnosis` | [repo](https://github.com/langchain-ai/langchain-skills) *(legacy layout)* |
 | | `langsmith-online-eval-engineering` | [repo](https://github.com/langchain-ai/langchain-skills) *(legacy layout)* |
+| | `langchain-eval-engineering` | [skills/langchain-eval-engineering](https://github.com/langchain-ai/langchain-skills/tree/main/skills/langchain-eval-engineering) *(current)* |
+| | `langchain-agent-monitoring` | [skills/langchain-agent-monitoring](https://github.com/langchain-ai/langchain-skills/tree/main/skills/langchain-agent-monitoring) *(current)* |
 | `production-specialist` | `langchain-agent-monitoring` | [skills/langchain-agent-monitoring](https://github.com/langchain-ai/langchain-skills/tree/main/skills/langchain-agent-monitoring) |
 | | `langchain-agent-tracing` | [skills/langchain-agent-tracing](https://github.com/langchain-ai/langchain-skills/tree/main/skills/langchain-agent-tracing) |
 
@@ -123,9 +129,9 @@ These replace the older smaller skills and are all present at `main` (verified H
 | `langchain-agent-monitoring` | [skills/langchain-agent-monitoring](https://github.com/langchain-ai/langchain-skills/tree/main/skills/langchain-agent-monitoring) | **Production** monitoring: quality signals, online evaluators, alerts, review queues, failure analysis. |
 | `langchain-agent-tracing` | [skills/langchain-agent-tracing](https://github.com/langchain-ai/langchain-skills/tree/main/skills/langchain-agent-tracing) | LangSmith tracing: instrumentation, threads, metadata, sampling, **sensitive-data redaction**, distributed tracing. |
 
-### 3.3 Recommended mapping of the current 4 skills
+### 3.3 Installed mapping of the current 4 skills
 
-| Profile | Recommended current skill(s) |
+| Profile | Installed current skill(s) |
 |---|---|
 | `langchain-specialist` | `langchain-build-agent` |
 | `langgraph-specialist` | `langchain-build-agent` |

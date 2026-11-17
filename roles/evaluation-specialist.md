@@ -30,7 +30,7 @@ Installed (earlier official layout; **legacy — no longer at `main`**):
 - `langsmith-experiment-diagnosis` — [repo](https://github.com/langchain-ai/langchain-skills)
 - `langsmith-online-eval-engineering` — [repo](https://github.com/langchain-ai/langchain-skills)
 
-Recommended current official skills:
+Installed current official skills:
 - [`langchain-eval-engineering`](https://github.com/langchain-ai/langchain-skills/tree/main/skills/langchain-eval-engineering)
 - [`langchain-agent-monitoring`](https://github.com/langchain-ai/langchain-skills/tree/main/skills/langchain-agent-monitoring)
 

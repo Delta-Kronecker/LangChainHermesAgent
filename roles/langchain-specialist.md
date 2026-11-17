@@ -32,7 +32,7 @@ Installed (from an earlier official layout of `langchain-ai/langchain-skills`; *
 - `langchain-middleware` — [repo](https://github.com/langchain-ai/langchain-skills)
 - `langchain-dependencies` — [repo](https://github.com/langchain-ai/langchain-skills)
 
-Recommended current official skill: [`langchain-build-agent`](https://github.com/langchain-ai/langchain-skills/tree/main/skills/langchain-build-agent).
+Installed current official skill: [`langchain-build-agent`](https://github.com/langchain-ai/langchain-skills/tree/main/skills/langchain-build-agent).
 
 ## 7. Runtime & Model
 ```yaml

@@ -31,7 +31,7 @@ Installed (earlier official layout; **legacy — no longer at `main`**):
 - `langgraph-human-in-the-loop` — [repo](https://github.com/langchain-ai/langchain-skills)
 - `langgraph-cli` — [repo](https://github.com/langchain-ai/langchain-skills)
 
-Recommended current official skill: [`langchain-build-agent`](https://github.com/langchain-ai/langchain-skills/tree/main/skills/langchain-build-agent).
+Installed current official skill: [`langchain-build-agent`](https://github.com/langchain-ai/langchain-skills/tree/main/skills/langchain-build-agent).
 
 ## 7. Runtime & Model
 ```yaml

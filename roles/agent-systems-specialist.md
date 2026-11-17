@@ -30,7 +30,7 @@ Installed (earlier official layout; **legacy — no longer at `main`**):
 - `deep-agents-orchestration` — [repo](https://github.com/langchain-ai/langchain-skills)
 - `deep-agents-memory` — [repo](https://github.com/langchain-ai/langchain-skills)
 
-Recommended current official skill: [`langchain-build-agent`](https://github.com/langchain-ai/langchain-skills/tree/main/skills/langchain-build-agent).
+Installed current official skill: [`langchain-build-agent`](https://github.com/langchain-ai/langchain-skills/tree/main/skills/langchain-build-agent).
 
 ## 7. Runtime & Model
 ```yaml
